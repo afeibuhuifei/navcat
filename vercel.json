@@ -1,6 +1,6 @@
 {
-  "buildCommand": "cd website && pnpm run build",
-  "outputDirectory": "website/dist",
+  "buildCommand": "pnpm run build",
+  "outputDirectory": "dist",
   "installCommand": "pnpm install",
   "framework": "vite",
   "rootDirectory": "website"
